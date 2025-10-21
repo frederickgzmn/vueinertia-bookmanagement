@@ -1,0 +1,19 @@
+@import "tailwindcss";
+@source "../views";
+
+.vue_inertia_color {
+    color: #e77436;
+}
+
+.vue_inertia_alt_color {
+    color: #73472b;
+}
+
+.vue_inertia_bg_color {
+    background-color: #474750;
+    width: 85%;
+    align-items: center;
+    align-content: center;
+    margin: 60px auto;
+    padding: 80px;
+}
