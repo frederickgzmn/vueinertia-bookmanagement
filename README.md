@@ -1,6 +1,6 @@
-# vueinertia Book Management
+# VUE Inertia Book Management
 
-This is a Laravel-based application for managing books. It provides features for creating, updating, and managing book records alias CRUD for Trow Web
+This is a Laravel-based application for managing books. It provides features for creating, updating, and managing book records alias CRUD
 
 ## Features
 
@@ -54,7 +54,7 @@ And more.
     
 2. Install dependencies:
     ```bash
-    composer install
+    composer install or composer update
     ```
 
 3. Copy the `.env.example` file to `.env` and configure your environment variables:
