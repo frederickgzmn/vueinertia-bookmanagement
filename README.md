@@ -97,7 +97,7 @@ And more.
 Tool use: https://dbdiagram.io/
 DB diagram file: /db diagram.txt
 
-![Database Structure](https://github.com/frederickgzmn/vueinertia-bookmanagement/blob/03031b13bd9d0b2b4d47806201566a2463bfefb0/db%20structure.png)
+![Database Structure](https://github.com/frederickgzmn/vueinertia-bookmanagement/blob/389416df27e75543bb6dce1eea5109a8c1e5140d/db%20structure.png)
 
 ## Usage
 
