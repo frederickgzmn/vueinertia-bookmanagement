@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Http\Controllers\Controller;
 use App\Models\User;
-use App\Models\role;
+use App\Models\Role;
 use App\Models\role_permission;
 use Illuminate\Http\Request;
 use Illuminate\Http\Response;
@@ -184,7 +184,7 @@ class AuthController extends Controller
         }
         
         // Check if the role exist.
-        $check_role = role::where('id', $user_info->role_id)->first();
+        $check_role = Role::where('id', $user_info->role_id)->first();
 
         if ( ! $check_role ) {
             return false;
